@@ -6,6 +6,11 @@
 - the code in this repo allows you to **analyze, visualize, and manage your Github issues like a pro!**
 - future roadmap involves extending this functionality to PRs, Discussions and other Github functionalities
 
+# blog post on "PyGitGraph"
+
+- I have made a blog post on my website covering PyGitGraph. You can find it [here](https://www.kunal-pathak.com/blog/PyGitGraph/). The blog post looks at the tool in a more non-technical way.
+- Alternatively, you can continue reading up more about the tool in the sections below.
+
 # purpose of "PyGitGraph"
 
 - GitHub's Issues feature provides robust project management tools, and its [GraphQL API](https://docs.github.com/en/graphql/overview/about-the-graphql-api#why-github-is-using-graphql) enables deep data access
